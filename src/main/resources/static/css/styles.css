@@ -24,3 +24,26 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+footer {
+    overflow: hidden;
+}
+
+footer div {
+    display: block;
+    width: 31%;
+    float: left;
+    min-height: 30px;
+}
+
+#red {
+    background-color: red;
+}
+
+#burgundy {
+    background-color: #ee3333;
+}
+
+#chartreuse {
+    background-color: chartreuse;
+}
